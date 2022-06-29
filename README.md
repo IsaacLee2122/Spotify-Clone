@@ -21,4 +21,3 @@ I created this project with the goal of teaching myself React development. I am 
 * React
 * react-router-dom
 * axios
-
