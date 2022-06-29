@@ -14,7 +14,7 @@ This is a clone web application using the create-react-app. The app comsumes dat
 *The main screen (non-authenicated) of the app*
 
 ## Motivation
-I created this project with the goal of teaching myself React development. I chose to clone a well established industry product so I could focus on React development, and not UI/UX design choices. I am an avid Spotify user and therefore I thought it would be an interesting challenge to tackle. 
+I created this project with the goal of teaching myself React development. I am an avid Spotify user and therefore I thought it would be an interesting challenge to tackle. 
 
 
 ## Tech/Framework Used
